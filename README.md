@@ -7,10 +7,10 @@
 -->
 
 <div id="badges" align='center'>
-  <a href="https://t.me/+37258098659">
+  <a href="https://t.me/+34627291181">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>  
-  <a href="www.linkedin.com/in/daniilsereda">
+  <a href="https://www.linkedin.com/in/daniilsereda/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"/>
   </a>  
 </div>
