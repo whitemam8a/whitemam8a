@@ -25,15 +25,35 @@
 
 ### :woman_technologist: About Me :
 
-I am a Frontend Developer from Spain.
+I am a Frontend Engineer with 3 years of professional development experience and a college degree in web development. My primary focus is React, and I also have solid expertise in developing fintech and SaaS applications.
 
-- :telescope: I’m working as a Frontend Engineer and contributing to frontend for building web applications.
+For the past two years, I have been developing web applications using React, Next.js, and TypeScript. I regularly work with REST APIs, responsive interfaces, and architectures based on reusable components.
 
-- :seedling: Exploring Technical Content Writing.
+In my current role at a German company, I work closely with designers and backend developers to develop and maintain production-ready features, improve the user experience, and ensure application performance and scalability.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+My main achievement is the design and development of a data import system for an e-commerce platform (Excel / Google Sheets), which significantly simplified the process of adding products. I was responsible for building this feature from scratch, worked closely with designers and backend developers, and participated in discussions regarding various aspects of its design and implementation.
 
-- :mailbox:How to reach me:
+As a result, we were able to develop a solution that accelerated the import of products into users’ accounts and significantly improved the app’s user experience.
+
+In addition to my experience as a Frontend Engineer, I also have experience leading a technical support team. I managed a two-person team that helped clients configure the payment gateway, handled trouble tickets, and relayed information to developers for subsequent resolution.
+
+
+##Technologies:
+
+Frameworks: React, Next.js, Nest.js(backend)
+
+Languages: TypeScript, JavaScript, Node.js
+
+Libraries & Tools: Redux, i18n, React Hook forms, Zod, Yup
+
+﻿﻿Styling: SCSS/Sass, Material UI, Tailwind CSS
+
+﻿﻿Tooling: Git, Gitbook, Swagger, Agile/Scrum/Kanban
+
+
+###CONTACTS:
+Email: daniil.hardwork@gmail.com
+Telegram: @IT_Explorer_Daniil
 
 ### LeetCode : 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/_white_mamba_?site=us&border=1&radius=20)
