@@ -38,7 +38,7 @@ As a result, we were able to develop a solution that accelerated the import of p
 In addition to my experience as a Frontend Engineer, I also have experience leading a technical support team. I managed a two-person team that helped clients configure the payment gateway, handled trouble tickets, and relayed information to developers for subsequent resolution.
 
 
-##Technologies:
+## Technologies:
 
 Frameworks: React, Next.js, Nest.js(backend)
 
@@ -51,7 +51,7 @@ Libraries & Tools: Redux, i18n, React Hook forms, Zod, Yup
 ﻿﻿Tooling: Git, Gitbook, Swagger, Agile/Scrum/Kanban
 
 
-###CONTACTS:
+### CONTACTS:
 Email: daniil.hardwork@gmail.com
 Telegram: @IT_Explorer_Daniil
 
